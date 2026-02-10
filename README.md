@@ -1,13 +1,13 @@
 # Hi, I'm Mohamed Seffine 👋
 
-Junior Full-Stack Developer with a strong focus on backend development,  
+Full-Stack Developer with a strong focus on backend development,  
 real-time systems, and building clean, production-oriented web applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-- Junior full-stack developer trained at **Zone 01 Oujda**
+- Full-stack developer trained at **Zone 01 Oujda**
 - Strong interest in **backend architecture** and **real-time systems**
 - Experienced with **WebSockets**, APIs, and databases
 - Comfortable working independently and in team environments
@@ -81,9 +81,9 @@ real-time systems, and building clean, production-oriented web applications.
 
 ## 📫 Contact
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your.email@example.com
+- GitHub: https://github.com/Mohamedseffine
+- LinkedIn: https://linkedin.com/in/mohamed-seffine-632a47278/
+- Email: seffinemohamed470@gmail.com
 
 ---
 
