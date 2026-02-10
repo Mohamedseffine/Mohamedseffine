@@ -51,26 +51,6 @@ real-time systems, and building clean, production-oriented web applications.
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Real-Time Social Network
-- Facebook-like platform
-- Live chat and notifications using WebSockets
-- Secure authentication with JWT
-- Backend-focused architecture
-
-### 🔹 Multiplayer Web Game
-- Real-time multiplayer gameplay
-- WebSocket-based client-server communication
-- Focus on synchronization and performance
-
-### 🔹 Forum Application
-- Authentication and authorization
-- Real-time interactions
-- Structured backend and database design
-
----
-
 ## 🎯 Currently
 
 - Deepening my knowledge of **Go** and backend system design
