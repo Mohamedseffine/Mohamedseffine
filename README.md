@@ -62,7 +62,7 @@ real-time systems, and building clean, production-oriented web applications.
 ## 📫 Contact
 
 - GitHub: https://github.com/Mohamedseffine
-- LinkedIn: https://linkedin.com/in/mohamed-seffine-632a47278/
+- LinkedIn: https://linkedin.com/in/mohamedseffine
 - Email: seffinemohamed470@gmail.com
 
 ---
